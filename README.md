@@ -1,7 +1,7 @@
 # ModResorts Demo Application
 
 ## About
-This version of the applicaiton works on tWAS.
+This version of the applicaiton works on tWAS. This app can be migrated to Java 21 and Jakarta EE 10 and works on MoRE.
 
 ## Building and Running
 Application can be build with standard Maven lifecycle commands:
