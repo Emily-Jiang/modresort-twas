@@ -1,8 +1,7 @@
 # ModResorts Demo Application
 
 ## About
-This version of the applicaiton has been migrated from IBM WebSphere Application Server 9. It contains all the changes needed for the applicaiton to run on Liberty.
-Additionally, the application has been upgraded from Java 8 to Java 21.
+This version of the applicaiton works on tWAS. This app can be migrated to Java 21 and Jakarta EE 10 and works on MoRE.
 
 ## Building and Running
 Application can be build with standard Maven lifecycle commands:
